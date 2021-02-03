@@ -1,3 +1,0 @@
-Machine Learning Engineer with 3 years’ experience in deep learning with a demonstrated history working in decision tree and clustering in information Technology. Skilled in Machine Learning, CART, RandomForest, KNN, K-Mean, Text Mining, using R, Python, . Have skill in Data Visualization using Tableau.
-
-Have working experience in Building Predictive model in CART, RandomForest and KNN Using R. 
